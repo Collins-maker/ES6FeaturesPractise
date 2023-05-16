@@ -1,3 +1,4 @@
+
 const color = ["Blue", "Green", "Red", "Orange", "Violet", "Indigo", "Yellow"];
 const o = ["th","st","nd","rd"];
 
